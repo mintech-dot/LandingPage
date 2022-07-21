@@ -1,6 +1,6 @@
 #  Free Tailwind CSS Templates
 
-# Demo : https://sabak.netlify.app/
+Try [Demo](https://sabak.netlify.app/)
 
 # License
 
