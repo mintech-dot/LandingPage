@@ -4,7 +4,7 @@ Try [Demo](https://sabak.netlify.app/)
 
 # License
 
-Licensed under the MIT license. See [LICENSE.md](https://github.com/mintech-dot/PcInfo/blob/main/README.md) for details.
+Licensed under the MIT license. See [LICENSE.md](https://github.com/mintech-dot/LandingPage/blob/main/LICENSE.md) for details.
 
 ***
 
