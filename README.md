@@ -1,5 +1,4 @@
-#  Landing page
-Free Tailwind CSS Templates
+#  Free Tailwind CSS Templates
 
 # Demo :
 
