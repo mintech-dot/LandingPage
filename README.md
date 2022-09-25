@@ -1,4 +1,4 @@
-#  Free Tailwind CSS Templates
+#  Free Tailwind CSS Landing Page Template
 
 Try [Demo](https://sabak.netlify.app/)
 
