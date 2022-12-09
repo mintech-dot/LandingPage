@@ -6,6 +6,8 @@ Try [Demo](https://sabak.netlify.app/)
 
 Licensed under the MIT license. See [LICENSE.md](https://github.com/mintech-dot/LandingPage/blob/main/LICENSE.md) for details.
 
+ Photos used are taken from freepik
+
 ***
 
 # Author
