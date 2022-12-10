@@ -14,11 +14,10 @@ Licensed under the MIT license. See [LICENSE.md](https://github.com/mintech-dot/
 
 👤 **Raid Sobhi**
 
-My nickname is MinTech
 - Telegram: [@RaidSobhi](https://t.me/Sobhi_raid)
 - Github: [@MinTech](https://github.com/mintech-dot)
 - Twitter: [@MinTech](https://twitter.com/raid_sobhi)
-- Protonmail : mintech@protonmail.com
+- Email : mintech@protonmail.com
     
 ## Show your support
 
